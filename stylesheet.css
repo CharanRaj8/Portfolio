@@ -315,8 +315,8 @@ transition:0.32s cubic-bezier(0.6,0,0.7,0.2);
 
 .home-image {
     position: relative; /* Container positioning */
-    width: 430px;
-    height: 430px;
+    width: 350px;
+    height: 350px;
     border-radius: 50%; /* Circular shape */
     margin: auto; /* Center the container */
     background: radial-gradient(circle at center, transparent 60%, #00d1ff 100%); /* Inner glow effect */
